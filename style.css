@@ -1,0 +1,19 @@
+.navbar-nav{
+    padding: 20px;
+}
+.nav-item{
+    margin: 10px;
+}
+.nav-link-selection{
+    color: green;
+    font-size: large;
+    border: 1px solid green;
+    border-radius: 6px;
+}
+.nav-link-selection:hover{
+    background-color: lightgreen;
+    color: black;
+}
+.active-nav-class{
+    background-color: lightgreen;
+}
