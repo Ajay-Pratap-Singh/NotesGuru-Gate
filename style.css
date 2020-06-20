@@ -17,3 +17,6 @@
 .active-nav-class{
     background-color: lightgreen;
 }
+.navbar-brand{
+    font-size: 35px;
+}
