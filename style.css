@@ -20,3 +20,11 @@
 .navbar-brand{
     font-size: 35px;
 }
+.heading-notesguru{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img-notes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
